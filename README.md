@@ -227,4 +227,8 @@ You can easily attach a TensorBoard instance to monitor your training:
 )
 class MyModel(object):
     ...
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> 70732cf2c5be8c2cb710a16a7575def98274ff3f
